@@ -1,6 +1,6 @@
 package fast.springsecuritypractice.note;
 
-import me.benny.practice.spring.security.user.User;
+import fast.springsecuritypractice.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

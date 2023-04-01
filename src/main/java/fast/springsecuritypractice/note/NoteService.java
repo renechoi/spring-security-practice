@@ -1,8 +1,8 @@
 package fast.springsecuritypractice.note;
 
+import fast.springsecuritypractice.user.User;
+import fast.springsecuritypractice.user.UserNotFoundException;
 import lombok.RequiredArgsConstructor;
-import me.benny.practice.spring.security.user.User;
-import me.benny.practice.spring.security.user.UserNotFoundException;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;

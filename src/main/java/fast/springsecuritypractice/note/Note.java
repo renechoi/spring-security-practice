@@ -1,9 +1,9 @@
 package fast.springsecuritypractice.note;
 
+import fast.springsecuritypractice.user.User;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import me.benny.practice.spring.security.user.User;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
